@@ -25,7 +25,7 @@
 </ol>
 
 <h2>Contact</h2>
-<p>For questions and collaborations, feel free to get in touch with me!</p>
+<p>For questions and collaborations, feel free to get in touch!</p>
 
 </body>
 </html>
